@@ -1,4 +1,4 @@
-package com.nicole;
+package com.nicole.helloWorld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

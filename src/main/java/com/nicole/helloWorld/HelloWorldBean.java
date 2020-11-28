@@ -1,4 +1,4 @@
-package com.nicole;
+package com.nicole.helloWorld;
 
 public class HelloWorldBean {
 	
