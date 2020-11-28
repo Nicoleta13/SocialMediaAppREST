@@ -6,8 +6,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import com.nicole.User;
-
 //Component => the class/bean will be managed by the spring
 @Component
 public class UserDAOService {

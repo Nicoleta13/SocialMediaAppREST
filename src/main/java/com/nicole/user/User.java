@@ -1,4 +1,4 @@
-package com.nicole;
+package com.nicole.user;
 
 import java.util.Date;
 
